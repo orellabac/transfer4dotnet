@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+# SharpDevelop 2.2.0.2595
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Network", "Network.csproj", "{1E7D6E86-3001-4EA0-9203-892C9638E418}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E7D6E86-3001-4EA0-9203-892C9638E418}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E7D6E86-3001-4EA0-9203-892C9638E418}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E7D6E86-3001-4EA0-9203-892C9638E418}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E7D6E86-3001-4EA0-9203-892C9638E418}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal

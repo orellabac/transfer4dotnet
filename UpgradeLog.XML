@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Network">
+</Property><Property Name="解决方案文件" Value="D:\Project8\Network\Network.sln">
+</Property><Property Name="用户选项文件" Value="D:\Project8\Network\Network.suo">
+</Property><Property Name="Date" Value="2008年9月22日">
+</Property><Property Name="Time" Value="13:40">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Network.sln" Description="文件已成功备份为 D:\Project8\Network\Backup\Network.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Network.suo" Description="文件已成功备份为 D:\Project8\Network\Backup\Network.suo">
+</Event><Event ErrorLevel="0" Project="Network" Source="Network\Network.csproj" Description="项目文件已成功备份为 D:\Project8\Network\Backup\Network\Network.csproj">
+</Event><Event ErrorLevel="0" Project="Network" Source="Network\Network.cs" Description="文件已成功备份为 D:\Project8\Network\Backup\Network\Network.cs">
+</Event><Event ErrorLevel="0" Project="Network" Source="Network\Properties\AssemblyInfo.cs" Description="文件已成功备份为 D:\Project8\Network\Backup\Network\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Network" Source="Network\Network.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="Network" Source="Network\Network.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="test" Source="Test\test.csproj" Description="项目文件已成功备份为 D:\Project8\Network\Backup\Test\test.csproj">
+</Event><Event ErrorLevel="0" Project="test" Source="Test\Program.cs" Description="文件已成功备份为 D:\Project8\Network\Backup\Test\Program.cs">
+</Event><Event ErrorLevel="0" Project="test" Source="Test\Properties\AssemblyInfo.cs" Description="文件已成功备份为 D:\Project8\Network\Backup\Test\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="test" Source="Test\test.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="test" Source="Test\test.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="PressTestServer" Source="PressTestServer\PressTestServer.csproj" Description="项目文件已成功备份为 D:\Project8\Network\Backup\PressTestServer\PressTestServer.csproj">
+</Event><Event ErrorLevel="0" Project="PressTestServer" Source="PressTestServer\Form1.cs" Description="文件已成功备份为 D:\Project8\Network\Backup\PressTestServer\Form1.cs">
+</Event><Event ErrorLevel="0" Project="PressTestServer" Source="PressTestServer\Form1.Designer.cs" Description="文件已成功备份为 D:\Project8\Network\Backup\PressTestServer\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="PressTestServer" Source="PressTestServer\Program.cs" Description="文件已成功备份为 D:\Project8\Network\Backup\PressTestServer\Program.cs">
+</Event><Event ErrorLevel="0" Project="PressTestServer" Source="PressTestServer\Properties\AssemblyInfo.cs" Description="文件已成功备份为 D:\Project8\Network\Backup\PressTestServer\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="PressTestServer" Source="PressTestServer\Properties\Resources.Designer.cs" Description="文件已成功备份为 D:\Project8\Network\Backup\PressTestServer\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="PressTestServer" Source="PressTestServer\Properties\Settings.Designer.cs" Description="文件已成功备份为 D:\Project8\Network\Backup\PressTestServer\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="PressTestServer" Source="PressTestServer\Properties\Settings.settings" Description="文件已成功备份为 D:\Project8\Network\Backup\PressTestServer\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="PressTestServer" Source="PressTestServer\Form1.resx" Description="文件已成功备份为 D:\Project8\Network\Backup\PressTestServer\Form1.resx">
+</Event><Event ErrorLevel="0" Project="PressTestServer" Source="PressTestServer\Properties\Resources.resx" Description="文件已成功备份为 D:\Project8\Network\Backup\PressTestServer\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="PressTestServer" Source="PressTestServer\PressTestServer.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="PressTestServer" Source="PressTestServer\PressTestServer.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DisconnectedTestClient" Source="DisconnectedTestClient\DisconnectedTestClient.csproj" Description="项目文件已成功备份为 D:\Project8\Network\Backup\DisconnectedTestClient\DisconnectedTestClient.csproj">
+</Event><Event ErrorLevel="0" Project="DisconnectedTestClient" Source="DisconnectedTestClient\Program.cs" Description="文件已成功备份为 D:\Project8\Network\Backup\DisconnectedTestClient\Program.cs">
+</Event><Event ErrorLevel="0" Project="DisconnectedTestClient" Source="DisconnectedTestClient\Properties\AssemblyInfo.cs" Description="文件已成功备份为 D:\Project8\Network\Backup\DisconnectedTestClient\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="DisconnectedTestClient" Source="DisconnectedTestClient\DisconnectedTestClient.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="DisconnectedTestClient" Source="DisconnectedTestClient\DisconnectedTestClient.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Network.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="Network.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Network" Source="Network\Network.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="test" Source="Test\test.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="PressTestServer" Source="PressTestServer\PressTestServer.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="DisconnectedTestClient" Source="DisconnectedTestClient\DisconnectedTestClient.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>

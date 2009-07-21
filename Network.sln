@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+# SharpDevelop 3.0.0.3800
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Network", "Network\Network.csproj", "{1E7D6E86-3001-4EA0-9203-892C9638E418}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "Test\test.csproj", "{1C312F62-A03A-4C7E-ABCA-D63E35A36C80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{29282CE4-D43B-495F-B9FE-A17EE83A3B4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serialization", "Serialization\Serialization.csproj", "{4818CF94-51E6-4541-9C75-F87934C68E4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E7D6E86-3001-4EA0-9203-892C9638E418}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E7D6E86-3001-4EA0-9203-892C9638E418}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E7D6E86-3001-4EA0-9203-892C9638E418}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E7D6E86-3001-4EA0-9203-892C9638E418}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C312F62-A03A-4C7E-ABCA-D63E35A36C80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C312F62-A03A-4C7E-ABCA-D63E35A36C80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C312F62-A03A-4C7E-ABCA-D63E35A36C80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C312F62-A03A-4C7E-ABCA-D63E35A36C80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29282CE4-D43B-495F-B9FE-A17EE83A3B4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29282CE4-D43B-495F-B9FE-A17EE83A3B4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29282CE4-D43B-495F-B9FE-A17EE83A3B4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29282CE4-D43B-495F-B9FE-A17EE83A3B4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4818CF94-51E6-4541-9C75-F87934C68E4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4818CF94-51E6-4541-9C75-F87934C68E4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4818CF94-51E6-4541-9C75-F87934C68E4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4818CF94-51E6-4541-9C75-F87934C68E4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
